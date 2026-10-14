@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Home Page</title>
+    <meta charset="utf-8">
+    <style>
+        body {
+            background-color: lightgrey;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+         ul, ol {
+            list-style: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Diretories</h1>
+    <ul>
+        <li><img src="../Assets/home_icon.png" alt="home_icon" width="15px" height="15px"><a href="Home Page.html">Home</a></li>
+        <li><img src="../Assets/about_icon.png" alt="about_icon" width="15px" height="15px"><a href="About Page">About</a></li>
+        <li><img src="../Assets/Projects_icon.png" alt="projects_icon" width="15px" height="15px"><a href="Projects Page">Projects</a></li>
+        <li><img src="../Assets/contact_icon.png" alt="contact_icon" width="15px" height="15px"><a href="Contact Page">Contact</a></li>
+    </ul>
+    <h2>About Page</h2>
+    <p>This is the about page this is basically a small biography</p>
+</body>
+</html>
